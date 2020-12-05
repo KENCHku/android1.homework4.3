@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android1.homework4.3</string>
+    <string name="city_name">CITY NAME</string>
+    <string name="write_your_target_city">Write your target city!</string>
+    <string name="cities">cities</string>
+    <string name="save_back">Save | Back</string>
+</resources>
